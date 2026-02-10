@@ -1,0 +1,4 @@
+C:\Users\Angelo\Desktop\proyecto\Estructura\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.AssemblyReference.cache
+C:\Users\Angelo\Desktop\proyecto\Estructura\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.Form1.resources
+C:\Users\Angelo\Desktop\proyecto\Estructura\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.GenerateResource.cache
+C:\Users\Angelo\Desktop\proyecto\Estructura\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.IngresarProducto.resources
